@@ -10,7 +10,7 @@ Java Calculator with Great UI
 * Addition, subtraction, multiplication, division and percentage.
 
 ## Preview
-![Screenshot](calculator.PNG)
+![Screenshot](preview.PNG)
 ## Getting Started
 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
